@@ -6,7 +6,7 @@
 
 ## 1. Executive Summary
 
-- **Total orders:** 100
+- **Total orders:** 200
 - **Total revenue:** $32,067.92
 - **Average order value:** $320.68
 - **Total units sold:** 434
