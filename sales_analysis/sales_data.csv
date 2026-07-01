@@ -1,0 +1,101 @@
+order_id,order_date,customer_name,region,product,category,quantity,unit_price,total_price,payment_method
+ORD-0019,2025-01-01,Noah Silva,South,USB-C Hub,Electronics,8,34.99,279.92,Credit Card
+ORD-0035,2025-01-01,Ravi Patel,West,USB-C Hub,Electronics,7,34.99,244.93,PayPal
+ORD-0026,2025-01-02,John Sharma,South,Bluetooth Speaker,Electronics,4,39.99,159.96,Credit Card
+ORD-0089,2025-01-04,Isabella Rossi,North,Mechanical Keyboard,Electronics,6,59.99,359.94,Bank Transfer
+ORD-0096,2025-01-05,John Patel,South,Ballpoint Pens (12pk),Stationery,8,5.49,43.92,Bank Transfer
+ORD-0084,2025-01-06,Nora Chen,South,Office Chair,Furniture,4,149.99,599.96,Debit Card
+ORD-0033,2025-01-13,Zara Sharma,North,Whiteboard,Stationery,2,45.0,90.0,Debit Card
+ORD-0030,2025-01-14,Emma Sharma,West,Notebook Set,Stationery,8,8.99,71.92,PayPal
+ORD-0060,2025-01-18,Arjun Nguyen,East,Desk Lamp,Furniture,7,24.99,174.93,Credit Card
+ORD-0027,2025-01-19,Sam Khan,East,Wireless Mouse,Electronics,6,19.99,119.94,Bank Transfer
+ORD-0073,2025-01-20,Mia Khan,East,Standing Desk,Furniture,8,299.99,2399.92,PayPal
+ORD-0022,2025-01-22,Ana Smith,South,Office Chair,Furniture,2,149.99,299.98,Debit Card
+ORD-0080,2025-01-22,Isabella Chen,West,Bluetooth Speaker,Electronics,1,39.99,39.99,Debit Card
+ORD-0029,2025-01-25,Emma Kim,East,Notebook Set,Stationery,4,8.99,35.96,Bank Transfer
+ORD-0009,2025-01-26,Ravi Patel,West,Mechanical Keyboard,Electronics,4,59.99,239.96,PayPal
+ORD-0021,2025-01-29,Olivia Patel,South,Ballpoint Pens (12pk),Stationery,1,5.49,5.49,Credit Card
+ORD-0049,2025-01-29,John Chen,North,Whiteboard,Stationery,1,45.0,45.0,PayPal
+ORD-0043,2025-02-03,Olivia Smith,South,Whiteboard,Stationery,5,45.0,225.0,PayPal
+ORD-0070,2025-02-04,Ken Silva,East,Mechanical Keyboard,Electronics,8,59.99,479.92,Bank Transfer
+ORD-0074,2025-02-05,Wei Khan,West,Desk Lamp,Furniture,2,24.99,49.98,Debit Card
+ORD-0005,2025-02-09,Liam Garcia,North,Desk Lamp,Furniture,5,24.99,124.95,Credit Card
+ORD-0016,2025-02-09,Fatima Kim,North,Wireless Mouse,Electronics,2,19.99,39.98,Bank Transfer
+ORD-0020,2025-02-09,Olivia Chen,North,Standing Desk,Furniture,4,299.99,1199.96,PayPal
+ORD-0036,2025-02-09,Liam Patel,South,Notebook Set,Stationery,8,8.99,71.92,Credit Card
+ORD-0090,2025-02-09,Isabella Chen,East,Desk Lamp,Furniture,8,24.99,199.92,Bank Transfer
+ORD-0011,2025-02-11,Ken Kim,East,Whiteboard,Stationery,4,45.0,180.0,Debit Card
+ORD-0086,2025-02-11,Mia Smith,North,USB-C Hub,Electronics,2,34.99,69.98,PayPal
+ORD-0079,2025-02-12,Ken Chen,North,Desk Lamp,Furniture,7,24.99,174.93,Bank Transfer
+ORD-0038,2025-02-17,John Nguyen,North,Wireless Mouse,Electronics,2,19.99,39.98,Debit Card
+ORD-0031,2025-02-19,Liam Silva,West,Mechanical Keyboard,Electronics,4,59.99,239.96,Debit Card
+ORD-0062,2025-02-19,Isabella Kim,South,Whiteboard,Stationery,3,45.0,135.0,PayPal
+ORD-0099,2025-02-19,Arjun Smith,South,Office Chair,Furniture,2,149.99,299.98,Debit Card
+ORD-0066,2025-02-20,Wei Sharma,North,Standing Desk,Furniture,4,299.99,1199.96,Debit Card
+ORD-0051,2025-02-23,Sofia Smith,East,Wireless Mouse,Electronics,6,19.99,119.94,Bank Transfer
+ORD-0025,2025-02-27,John Garcia,North,Mechanical Keyboard,Electronics,4,59.99,239.96,Debit Card
+ORD-0055,2025-02-27,Aarav Khan,West,Standing Desk,Furniture,4,299.99,1199.96,PayPal
+ORD-0012,2025-02-28,Priya Garcia,West,Desk Lamp,Furniture,1,24.99,24.99,PayPal
+ORD-0052,2025-03-02,Fatima Chen,West,Bluetooth Speaker,Electronics,3,39.99,119.97,Credit Card
+ORD-0068,2025-03-04,Wei Sharma,North,Ballpoint Pens (12pk),Stationery,7,5.49,38.43,Bank Transfer
+ORD-0092,2025-03-04,Ken Nguyen,West,Standing Desk,Furniture,8,299.99,2399.92,PayPal
+ORD-0059,2025-03-07,Priya Kim,North,Bluetooth Speaker,Electronics,4,39.99,159.96,Debit Card
+ORD-0040,2025-03-08,Liam Garcia,South,Notebook Set,Stationery,6,8.99,53.94,PayPal
+ORD-0057,2025-03-08,Fatima Nguyen,East,Wireless Mouse,Electronics,2,19.99,39.98,Credit Card
+ORD-0014,2025-03-09,Wei Khan,East,Ballpoint Pens (12pk),Stationery,3,5.49,16.47,Bank Transfer
+ORD-0023,2025-03-09,Sam Nguyen,West,Ballpoint Pens (12pk),Stationery,3,5.49,16.47,Debit Card
+ORD-0045,2025-03-09,Emma Smith,South,Mechanical Keyboard,Electronics,3,59.99,179.97,PayPal
+ORD-0078,2025-03-11,Isabella Rossi,North,Ballpoint Pens (12pk),Stationery,4,5.49,21.96,Bank Transfer
+ORD-0001,2025-03-12,Sofia Khan,South,Mechanical Keyboard,Electronics,1,59.99,59.99,Credit Card
+ORD-0100,2025-03-12,Leo Silva,East,Office Chair,Furniture,8,149.99,1199.92,Credit Card
+ORD-0032,2025-03-13,Ken Khan,North,Notebook Set,Stationery,3,8.99,26.97,Bank Transfer
+ORD-0056,2025-03-13,Olivia Silva,West,Standing Desk,Furniture,2,299.99,599.98,PayPal
+ORD-0082,2025-03-13,Isabella Patel,North,Desk Lamp,Furniture,7,24.99,174.93,Bank Transfer
+ORD-0094,2025-03-13,Nora Patel,North,Standing Desk,Furniture,6,299.99,1799.94,Debit Card
+ORD-0063,2025-03-19,Mia Khan,West,Notebook Set,Stationery,1,8.99,8.99,PayPal
+ORD-0024,2025-03-21,Ravi Garcia,West,Whiteboard,Stationery,4,45.0,180.0,Bank Transfer
+ORD-0037,2025-03-22,Priya Sharma,West,Bluetooth Speaker,Electronics,1,39.99,39.99,Debit Card
+ORD-0093,2025-03-25,Fatima Rossi,South,Wireless Mouse,Electronics,8,19.99,159.92,PayPal
+ORD-0046,2025-03-29,Liam Patel,West,Standing Desk,Furniture,4,299.99,1199.96,PayPal
+ORD-0058,2025-03-30,Arjun Kim,North,Mechanical Keyboard,Electronics,7,59.99,419.93,Bank Transfer
+ORD-0083,2025-03-31,Sofia Smith,North,Wireless Mouse,Electronics,1,19.99,19.99,Credit Card
+ORD-0010,2025-04-01,Liam Patel,North,USB-C Hub,Electronics,6,34.99,209.94,Debit Card
+ORD-0077,2025-04-01,Mia Kim,West,Ballpoint Pens (12pk),Stationery,1,5.49,5.49,Debit Card
+ORD-0098,2025-04-01,Ken Patel,East,Notebook Set,Stationery,6,8.99,53.94,PayPal
+ORD-0006,2025-04-02,Olivia Nguyen,East,Notebook Set,Stationery,2,8.99,17.98,Credit Card
+ORD-0015,2025-04-03,Sofia Chen,West,Bluetooth Speaker,Electronics,7,39.99,279.93,Credit Card
+ORD-0007,2025-04-07,John Silva,East,Ballpoint Pens (12pk),Stationery,2,5.49,10.98,PayPal
+ORD-0081,2025-04-08,Arjun Khan,West,Wireless Mouse,Electronics,5,19.99,99.95,PayPal
+ORD-0087,2025-04-12,Liam Smith,South,Bluetooth Speaker,Electronics,7,39.99,279.93,Credit Card
+ORD-0095,2025-04-15,Ana Silva,South,Mechanical Keyboard,Electronics,4,59.99,239.96,Bank Transfer
+ORD-0053,2025-04-16,Sofia Patel,South,USB-C Hub,Electronics,6,34.99,209.94,Credit Card
+ORD-0075,2025-04-17,Isabella Garcia,West,Office Chair,Furniture,2,149.99,299.98,Bank Transfer
+ORD-0076,2025-04-18,Ravi Nguyen,North,Wireless Mouse,Electronics,4,19.99,79.96,Bank Transfer
+ORD-0050,2025-04-21,Wei Sharma,East,Bluetooth Speaker,Electronics,3,39.99,119.97,PayPal
+ORD-0044,2025-04-23,Zara Patel,North,Standing Desk,Furniture,3,299.99,899.97,PayPal
+ORD-0064,2025-04-24,Liam Silva,West,Ballpoint Pens (12pk),Stationery,8,5.49,43.92,Debit Card
+ORD-0067,2025-04-27,Isabella Nguyen,South,Ballpoint Pens (12pk),Stationery,2,5.49,10.98,Bank Transfer
+ORD-0054,2025-05-01,Sofia Khan,West,Notebook Set,Stationery,1,8.99,8.99,PayPal
+ORD-0034,2025-05-05,Ana Khan,West,USB-C Hub,Electronics,7,34.99,244.93,Credit Card
+ORD-0003,2025-05-10,Nora Sharma,South,Office Chair,Furniture,4,149.99,599.96,Bank Transfer
+ORD-0065,2025-05-12,Nora Garcia,North,Mechanical Keyboard,Electronics,5,59.99,299.95,Debit Card
+ORD-0017,2025-05-16,Noah Silva,North,Notebook Set,Stationery,8,8.99,71.92,Credit Card
+ORD-0071,2025-05-21,Ken Chen,West,Bluetooth Speaker,Electronics,7,39.99,279.93,Bank Transfer
+ORD-0085,2025-05-25,Liam Rossi,East,Ballpoint Pens (12pk),Stationery,2,5.49,10.98,PayPal
+ORD-0088,2025-05-25,Priya Garcia,West,Standing Desk,Furniture,2,299.99,599.98,PayPal
+ORD-0013,2025-05-26,Arjun Khan,West,Mechanical Keyboard,Electronics,4,59.99,239.96,Bank Transfer
+ORD-0039,2025-05-26,Sofia Nguyen,North,Notebook Set,Stationery,2,8.99,17.98,Credit Card
+ORD-0028,2025-05-27,Leo Rossi,South,Office Chair,Furniture,3,149.99,449.97,Bank Transfer
+ORD-0004,2025-05-31,Noah Sharma,South,Office Chair,Furniture,8,149.99,1199.92,Bank Transfer
+ORD-0002,2025-06-01,Isabella Sharma,North,Whiteboard,Stationery,2,45.0,90.0,Credit Card
+ORD-0091,2025-06-01,Noah Garcia,South,Ballpoint Pens (12pk),Stationery,7,5.49,38.43,Credit Card
+ORD-0042,2025-06-09,Leo Smith,North,Wireless Mouse,Electronics,8,19.99,159.92,Debit Card
+ORD-0047,2025-06-12,Isabella Patel,North,Wireless Mouse,Electronics,2,19.99,39.98,Credit Card
+ORD-0048,2025-06-13,Noah Chen,West,Desk Lamp,Furniture,3,24.99,74.97,Bank Transfer
+ORD-0072,2025-06-13,Noah Silva,West,Standing Desk,Furniture,4,299.99,1199.96,Debit Card
+ORD-0018,2025-06-14,Arjun Smith,East,Whiteboard,Stationery,5,45.0,225.0,Bank Transfer
+ORD-0097,2025-06-19,Leo Garcia,West,Office Chair,Furniture,5,149.99,749.95,PayPal
+ORD-0061,2025-06-20,Isabella Garcia,West,Standing Desk,Furniture,5,299.99,1499.95,PayPal
+ORD-0041,2025-06-21,Mia Rossi,East,Notebook Set,Stationery,3,8.99,26.97,Credit Card
+ORD-0069,2025-06-28,Sam Rossi,North,Office Chair,Furniture,3,149.99,449.97,Debit Card
+ORD-0008,2025-06-30,John Sharma,South,Bluetooth Speaker,Electronics,4,39.99,159.96,PayPal

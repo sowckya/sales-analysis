@@ -1,0 +1,54 @@
+{
+  "total_orders": 100,
+  "total_revenue": 32067.92,
+  "average_order_value": 320.68,
+  "total_units_sold": 434,
+  "date_range": [
+    "2025-01-01",
+    "2025-06-30"
+  ],
+  "revenue_by_region": {
+    "West": 12304.86,
+    "North": 8566.34,
+    "South": 5764.0,
+    "East": 5432.72
+  },
+  "revenue_by_category": {
+    "Furniture": 23348.65,
+    "Electronics": 6818.27,
+    "Stationery": 1901.0
+  },
+  "top_products": {
+    "Standing Desk": 16199.46,
+    "Office Chair": 6149.59,
+    "Mechanical Keyboard": 2999.5,
+    "Bluetooth Speaker": 1639.59,
+    "USB-C Hub": 1259.64,
+    "Whiteboard": 1170.0,
+    "Desk Lamp": 999.6,
+    "Wireless Mouse": 919.54,
+    "Notebook Set": 467.48,
+    "Ballpoint Pens (12pk)": 263.52
+  },
+  "revenue_by_payment_method": {
+    "PayPal": 14673.92,
+    "Debit Card": 7665.26,
+    "Bank Transfer": 6153.73,
+    "Credit Card": 3575.01
+  },
+  "revenue_by_month": {
+    "2025-01": 5211.72,
+    "2025-02": 6316.27,
+    "2025-03": 8937.58,
+    "2025-04": 2862.82,
+    "2025-05": 4024.47,
+    "2025-06": 4715.06
+  },
+  "top_5_customers": {
+    "Mia Khan": 2408.91,
+    "Ken Nguyen": 2399.92,
+    "Nora Patel": 1799.94,
+    "Isabella Garcia": 1799.93,
+    "Noah Silva": 1551.8
+  }
+}
